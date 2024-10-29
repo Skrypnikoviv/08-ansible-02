@@ -11,3 +11,4 @@
    
 10. Повторно запустите playbook с флагом --diff и убедитесь, что playbook идемпотентен.
     ![image](https://github.com/user-attachments/assets/3f8acae2-da01-4217-8490-4e8e5626e7ed)
+ссылка на playbook/README.md
