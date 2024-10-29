@@ -2,6 +2,7 @@
 5. Запустите ansible-lint site.yml и исправьте ошибки, если они есть.
    
 Ответ: были ошибки на отсутствие доступа к файлам
+
 7. Попробуйте запустить playbook на этом окружении с флагом --check.
    ![image](https://github.com/user-attachments/assets/22a210cd-ab45-4e3e-b618-02f4d36f2819)
    
